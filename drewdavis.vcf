@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Drew;;;
+FN:Drew Davis
+ORG:
+ADR;TYPE=WORK:Veteran Advocate | Cloud Advocate | Open-Source Enthusias
+TITLE:
+TEL;TYPE=CELL:+1317-759-1656
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:drew+vcard@davisdre.com
+URL;TYPE=Digital Business Card:
+URL:https://www.davisdre.me
+URL;TYPE=Website:https://www.davisdre.me
+URL;TYPE=LinkedIn:https://linkedin.com/in/davisdrew/
+URL;TYPE=GitHub:https://github.com/davisdre
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100567784
+END:VCARD
